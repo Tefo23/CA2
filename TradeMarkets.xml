@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<companies>
+<section>
+<company code="MSFT">
+  <name>Microsoft</name>
+  <price>151.75</price>
+</company>
+<company code="Tsla">
+  <name>Tesla</name>
+  <price>145.78</price>
+</company>
+<company code="Gogle">
+  <name>Google</google>
+  <price>177.22</price>
+</company>
+<company code="fcbk">
+  <name>Facebook</name>
+  <price>22.44</price>
+</company>
+<company code="alli">
+  <name>Alibaba</name>
+   <price>222.44</price>
+   </company>
+<company code="Dell">
+<name>Dell</name>
+<price>221.44</price
+</company>
+<company code="Apple">
+<name>Apple</name>
+<price>332.11</price>
+</company>
+</section>
+
+<section>
+<company code="Ali"
+<name>Alibaba</name>
+<price>223.33</price>
+</company>
+<company code="Dhl"
+<name>DHL</name>
+<price>333.22</price>
+</company>
+<company code="UPS">
+<name>UPS</name>
+<price>221.99</price>
+</campany>
+<company code="fedx">
+<name>FedEx</name>
+<price>221.11</price>
+</company>
+<company code="NYK"
+<name>NYK GROUP</name>
+<price>111.22</price>
+</company>
+<company code="MOL">
+<name>MOL</name>
+<price>222.11</price>
+</company>
+<company code="CSX">
+<name>CSX</name>
+<price>123.22</price>
+</company>
+</section>
+
+<section>
+<company code ="KPMG">
+<name>KPMG</name>
+<price>221.11</price>
+</company>
+<company code="PWC">
+<name>PWC</name>
+<price>345.99</price>
+</company>
+<company code="www">
+<name>www</name>
+<price>139.33</price>
+</company>
+<company code="eee">
+<name>eee</name>
+<price>211.22</price>
+</company>
+<company code="ddd">
+<name>ddd</name>
+<price>646.33</price>
+</company>
+<company code="rrr">
+<name>aaa</name>
+<price>545.22</price>
+</company>
+</section>
+
+<section>
+<company code="yyy">
+<name>yyy</name>
+<price>662.11</price>
+</company>
+<company code="jjj">
+<name>jjj</name>
+<price>112.22</price>
+</company>
+<company code="ttt">
+<name>ttt</name>
+<price>621.11</price>
+</company>
+<company code="uuu">
+<name>uuu</name>
+<price>652.11</price>
+</company>
+<company code="ooo">
+<name>ooo</name>
+<price>222.11</price>
+</company>
+<company code="iii">
+<name>iii</name>
+<price>143.22</price>
+</company>
+<company code="qqq">
+<name>qqq</name>
+<price>224.22</price>
+</company>
+</section>
+</companies>
