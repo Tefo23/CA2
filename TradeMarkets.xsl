@@ -4,7 +4,7 @@
   <table id="Companies" class="indent">
     <thead>
     <tr>
-    <th colspan=4>TradeMrkets</th>
+    <th colspan=4>TradeMarkets</th>
     </tr>
     <tr>
     <th>Click</th>
